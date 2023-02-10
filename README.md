@@ -1,2 +1,2 @@
 # Student-Record-Management-System
-Students Records Management System is a system where we can login as an admin or a student. If you login as an admin you can add records, edit it, delete specific records, etc. for performing this you have to enter the password of an admin. If you login as a student you can check your records.
+This project mainly focuses on how we use C++ language for making management system like Students Records. The student record management system helps us keep the records of students up to date as it provides an option of updating the records while it also helps us to delete specific records which admin currently wants to remove it from the list. In this way admin can track all the records and perform operations based on their requirement.
