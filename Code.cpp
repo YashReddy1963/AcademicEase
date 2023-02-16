@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class in_out{//in_out==(for input && output)
+class in_out{//in_out==(for input && output of records)
     public:
     int id, m1,m2,m3,m4,m5;
     char f_name[20] , l_name[20]; //f_name==first_name , l_name==last_name;
